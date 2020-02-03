@@ -1,10 +1,6 @@
 <template>
   <div class="ion-page">
-<<<<<<< HEAD
     <h1>Teting 123</h1>
-=======
-    <h1>Converter </h1>
->>>>>>> b72553e723d8fe89ca7dad74721a426e8b2b5add
     <ion-content class="ion-padding">
       <h1>
         <ion-text color="dark">#1 leading stress converter</ion-text>
